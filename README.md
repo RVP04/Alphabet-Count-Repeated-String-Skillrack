@@ -26,8 +26,3 @@ b</p>
 
 <p>Explanation:<br>
 abcd when repeated till length 10 is abcdabcdab in which the alphabet b occurs 3 times.</p>
-
-<p>&nbsp;</p>
-
-                                                            <hr><div id="flowchartpanel" class="ui-outputpanel ui-widget"></div>
-                                                        </div>
